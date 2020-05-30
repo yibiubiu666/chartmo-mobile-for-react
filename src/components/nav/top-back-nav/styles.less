@@ -1,0 +1,26 @@
+@import '../../../assets/styles/index.less';
+@import '../../../assets/styles/mixin/triangle.less';
+
+.cmp-top-back-nav {
+  position: relative;
+  height: 46px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid @color-gray-lighten;
+  .nav__back {
+    position: absolute;
+    top: 15px;
+    left: 0;
+    .nav__back-icon {
+      left: 8px;
+    }
+    .nav__back-txt {
+      margin: 0 20px;
+    }
+  }
+  .nav__title {
+    .Headline1;
+  }
+}
