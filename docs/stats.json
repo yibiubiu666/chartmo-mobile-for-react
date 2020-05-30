@@ -8,10 +8,10 @@
   ],
   "version": "4.43.0",
   "hash": "5456d2f87d6a37410fdb",
-  "time": 8063,
-  "builtAt": 1590835243035,
+  "time": 4208,
+  "builtAt": 1590835346467,
   "publicPath": "",
-  "outputPath": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/dist",
+  "outputPath": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/docs",
   "assetsByChunkName": {
     "main": "bundle.js"
   },
@@ -3816,8 +3816,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
-              "name": "./src/views/plaza/index.js"
+              "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
+              "name": "./src/views/table/index.js"
             },
             {
               "id": null,
@@ -3873,8 +3873,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
-              "name": "./src/views/plaza/index.js"
+              "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
+              "name": "./src/views/table/index.js"
             },
             {
               "id": null,
@@ -5902,9 +5902,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
+              "issuer": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
               "issuerId": null,
-              "issuerName": "./src/views/plaza/index.js",
+              "issuerName": "./src/views/table/index.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -5913,8 +5913,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
-                  "name": "./src/views/plaza/index.js"
+                  "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
+                  "name": "./src/views/table/index.js"
                 }
               ],
               "failed": false,
@@ -5925,15 +5925,6 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
-                  "module": "./src/views/plaza/index.js",
-                  "moduleName": "./src/views/plaza/index.js",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "@/components/nav/top-back-nav",
-                  "loc": "24:0-64"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
                   "module": "./src/views/table/index.js",
                   "moduleName": "./src/views/table/index.js",
@@ -5946,15 +5937,24 @@
                   "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
                   "module": "./src/views/plaza/index.js",
                   "moduleName": "./src/views/plaza/index.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "@/components/nav/top-back-nav",
+                  "loc": "24:0-64"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
+                  "module": "./src/views/table/index.js",
+                  "moduleName": "./src/views/table/index.js",
                   "type": "harmony import specifier",
                   "userRequest": "@/components/nav/top-back-nav",
                   "loc": "47:42-61"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
-                  "module": "./src/views/table/index.js",
-                  "moduleName": "./src/views/table/index.js",
+                  "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
+                  "module": "./src/views/plaza/index.js",
+                  "moduleName": "./src/views/plaza/index.js",
                   "type": "harmony import specifier",
                   "userRequest": "@/components/nav/top-back-nav",
                   "loc": "47:42-61"
@@ -9997,8 +9997,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
-          "name": "./src/views/plaza/index.js"
+          "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
+          "name": "./src/views/table/index.js"
         },
         {
           "id": null,
@@ -10054,8 +10054,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
-          "name": "./src/views/plaza/index.js"
+          "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
+          "name": "./src/views/table/index.js"
         },
         {
           "id": null,
@@ -12083,9 +12083,9 @@
           "prefetched": false,
           "chunks": [
           ],
-          "issuer": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
+          "issuer": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
           "issuerId": null,
-          "issuerName": "./src/views/plaza/index.js",
+          "issuerName": "./src/views/table/index.js",
           "issuerPath": [
             {
               "id": null,
@@ -12094,8 +12094,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
-              "name": "./src/views/plaza/index.js"
+              "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
+              "name": "./src/views/table/index.js"
             }
           ],
           "failed": false,
@@ -12106,15 +12106,6 @@
           "reasons": [
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
-              "module": "./src/views/plaza/index.js",
-              "moduleName": "./src/views/plaza/index.js",
-              "type": "harmony side effect evaluation",
-              "userRequest": "@/components/nav/top-back-nav",
-              "loc": "24:0-64"
-            },
-            {
-              "moduleId": null,
               "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
               "module": "./src/views/table/index.js",
               "moduleName": "./src/views/table/index.js",
@@ -12127,15 +12118,24 @@
               "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
               "module": "./src/views/plaza/index.js",
               "moduleName": "./src/views/plaza/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "@/components/nav/top-back-nav",
+              "loc": "24:0-64"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
+              "module": "./src/views/table/index.js",
+              "moduleName": "./src/views/table/index.js",
               "type": "harmony import specifier",
               "userRequest": "@/components/nav/top-back-nav",
               "loc": "47:42-61"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/table/index.js",
-              "module": "./src/views/table/index.js",
-              "moduleName": "./src/views/table/index.js",
+              "moduleIdentifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/babel-loader/lib/index.js!/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/src/views/plaza/index.js",
+              "module": "./src/views/plaza/index.js",
+              "moduleName": "./src/views/plaza/index.js",
               "type": "harmony import specifier",
               "userRequest": "@/components/nav/top-back-nav",
               "loc": "47:42-61"
@@ -12379,7 +12379,7 @@
       "warnings": [
       ],
       "publicPath": "",
-      "outputPath": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/dist",
+      "outputPath": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/docs",
       "assetsByChunkName": {
       },
       "assets": [
