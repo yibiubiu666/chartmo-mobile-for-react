@@ -13,7 +13,7 @@ export default class ComponentMarqueePanel extends React.Component {
 
   render () {
     return (
-      <div className="cmp-top-search-nav">
+      <div className="cmp-marquee-panel">
           hello marquee panel
       </div>
     )
