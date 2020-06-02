@@ -28,7 +28,7 @@ export default class ComponentTopSearchNav extends React.Component {
           <div className="nav__info">
             <a>
               <div className="info-wrap">
-                <ComponentMessageIconSvg />
+                <ComponentMessageIconSvg className="message__icon"/>
                 <span>消息</span>
               </div>
             </a>

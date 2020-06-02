@@ -4,7 +4,7 @@ import ComponentTwoCatSvg from '@/components/svg/two-cat'
 import ComponentMenuBarList from '@/components/list/menu-bar'
 import ComponentMenuGridList from '@/components/list/menu-grid'
 import ComponentTopSearchNav from '@/components/nav/top-search-nav'
-import ComponentMarqueePanel from '@/components/panel/marquee'
+import ComponentNewsList from '@/components/list/news'
 
 import { goPath } from '@/utils/location'
 
@@ -34,7 +34,9 @@ export default class Home extends React.Component {
         </header>
         <ComponentMenuBarList />
         <ComponentMenuGridList />
-        <ComponentMarqueePanel />
+        <section className="news-list-container">
+          <ComponentNewsList />
+        </section>
       </div>
     )
   }
