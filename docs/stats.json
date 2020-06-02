@@ -7,9 +7,9 @@
     "webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/"
   ],
   "version": "4.43.0",
-  "hash": "7c8c086bb8b2ff9358bf",
-  "time": 8126,
-  "builtAt": 1591070011882,
+  "hash": "d652690d7481bca5b771",
+  "time": 7634,
+  "builtAt": 1591071268830,
   "publicPath": "",
   "outputPath": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/docs",
   "assetsByChunkName": {
@@ -29,7 +29,7 @@
     },
     {
       "name": "bundle.js",
-      "size": 284088,
+      "size": 284035,
       "chunks": [
         0
       ],
@@ -79,14 +79,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 411751,
+      "size": 411698,
       "names": [
         "main"
       ],
       "files": [
         "bundle.js"
       ],
-      "hash": "ef9aab88257ebbfd8b56",
+      "hash": "c45432567097a79b4d96",
       "siblings": [
       ],
       "parents": [
@@ -4213,9 +4213,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react/cjs/react.production.min.js",
-          "issuerId": 12,
-          "issuerName": "./node_modules/react/cjs/react.production.min.js",
+          "issuer": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "issuerId": 13,
+          "issuerName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
           "issuerPath": [
             {
               "id": null,
@@ -4223,14 +4223,14 @@
               "name": "./src/main.js"
             },
             {
-              "id": 0,
-              "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react/index.js",
-              "name": "./node_modules/react/index.js"
+              "id": 10,
+              "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react-dom/index.js",
+              "name": "./node_modules/react-dom/index.js"
             },
             {
-              "id": 12,
-              "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react/cjs/react.production.min.js",
-              "name": "./node_modules/react/cjs/react.production.min.js"
+              "id": 13,
+              "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react-dom/cjs/react-dom.production.min.js",
+              "name": "./node_modules/react-dom/cjs/react-dom.production.min.js"
             }
           ],
           "failed": false,
@@ -5323,7 +5323,7 @@
           "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/src!./node_modules/less-loader/dist/cjs.js??ref--5-3!./src/views/home/styles.less",
           "index": 32,
           "index2": 29,
-          "size": 9279,
+          "size": 9226,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -12514,9 +12514,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react/cjs/react.production.min.js",
-      "issuerId": 12,
-      "issuerName": "./node_modules/react/cjs/react.production.min.js",
+      "issuer": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react-dom/cjs/react-dom.production.min.js",
+      "issuerId": 13,
+      "issuerName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
       "issuerPath": [
         {
           "id": null,
@@ -12524,14 +12524,14 @@
           "name": "./src/main.js"
         },
         {
-          "id": 0,
-          "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react/index.js",
-          "name": "./node_modules/react/index.js"
+          "id": 10,
+          "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react-dom/index.js",
+          "name": "./node_modules/react-dom/index.js"
         },
         {
-          "id": 12,
-          "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react/cjs/react.production.min.js",
-          "name": "./node_modules/react/cjs/react.production.min.js"
+          "id": 13,
+          "identifier": "/Users/buibuiyi/Workspaces/chartmo-mobile-for-react/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "name": "./node_modules/react-dom/cjs/react-dom.production.min.js"
         }
       ],
       "failed": false,
@@ -13624,7 +13624,7 @@
       "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/src!./node_modules/less-loader/dist/cjs.js??ref--5-3!./src/views/home/styles.less",
       "index": 32,
       "index2": 29,
-      "size": 9279,
+      "size": 9226,
       "cacheable": true,
       "built": true,
       "optional": false,
